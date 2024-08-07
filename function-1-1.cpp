@@ -6,5 +6,5 @@ double arrayMin(double* array, int size) {
         } else {
         double* min = array;
         }
-    return 0;
+    return 1.2;
 }
