@@ -2,5 +2,5 @@
 
 void modifyArray(double* array, int size, double value){ 
 
-    *array = *array * *value;
+    *array = *array * value;
 }
