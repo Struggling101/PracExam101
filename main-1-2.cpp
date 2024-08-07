@@ -7,5 +7,6 @@ int main() {
     int size = sizeof(array) / sizeof(array[0]);
     double value = 3;
     modifyArray(array, size, value);
+
     return 0;
 }
